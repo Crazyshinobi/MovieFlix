@@ -1,0 +1,22 @@
+"API Key"
+29f06d552d1cdf5f565f9a35f776add2
+
+"API Read Access Token"
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyOWYwNmQ1NTJkMWNkZjVmNTY1ZjlhMzVmNzc2YWRkMiIsInN1YiI6IjY1YWI5MjFhMWYzZTYwMDBhM2ZlYTBhYyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.MRqw2AdvTITp7mnchuJcW6dKi-4wIANC6dde4ORB4ro
+
+
+"Home URL"
+
+'https://api.themoviedb.org/3/movie/now_playing?api_key=29f06d552d1cdf5f565f9a35f776add2'
+
+"Popular URL"
+
+'https://api.themoviedb.org/3/movie/popular?api_key=29f06d552d1cdf5f565f9a35f776add2'
+
+"Top Rated URL"
+
+'https://api.themoviedb.org/3/movie/top_rated?api_key=29f06d552d1cdf5f565f9a35f776add2';
+
+"Upcoming URL"
+
+'https://api.themoviedb.org/3/movie/upcoming?api_key=29f06d552d1cdf5f565f9a35f776add2'
